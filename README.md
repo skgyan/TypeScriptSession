@@ -1,2 +1,0 @@
-# TypeScriptSession
-Created with CodeSandbox
